@@ -147,7 +147,7 @@ document.getElementById('By').onclick = function () {
   }
 };
 async function menuju() {
-  window.location = 'https://api.whatsapp.com/send?phone=&text=' + pesanwhatsapp;
+  window.location = 'https://drive.google.com/uc?export=download&id=1VciZl3iBytDV2W-_8Wb1P9KkLAD0v5Xl' + pesanwhatsapp;
 }
 
 opsLclick = 0;
@@ -275,3 +275,4 @@ function mulaiketik5() {
     },
   }).go();
 }
+
