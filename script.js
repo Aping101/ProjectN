@@ -147,7 +147,7 @@ document.getElementById('By').onclick = function () {
   }
 };
 async function menuju() {
-  window.location = 'https://drive.google.com/uc?export=download&id=1VciZl3iBytDV2W-_8Wb1P9KkLAD0v5Xl' + pesanwhatsapp;
+  window.location = 'https://drive.google.com/file/d/1VciZl3iBytDV2W-_8Wb1P9KkLAD0v5Xl/view?usp=drive_link' + pesanwhatsapp;
 }
 
 opsLclick = 0;
@@ -275,4 +275,5 @@ function mulaiketik5() {
     },
   }).go();
 }
+
 
